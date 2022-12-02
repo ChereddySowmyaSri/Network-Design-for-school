@@ -1,5 +1,6 @@
 # Network-Design-for-school
-ABSTRACT
+ABSTRACT:
+
 Designing a network architecture has always been a challenging topic and
 an active research area. The network has to be analyzed for it to be
 consistent and reliable. The network design proposal is made to
